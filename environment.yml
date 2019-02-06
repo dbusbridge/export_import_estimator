@@ -1,1 +1,5 @@
-
+name: env_export_import
+dependencies:
+  - python=3.6.4
+  - pip:
+    - tensorflow==1.12
